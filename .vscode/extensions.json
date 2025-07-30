@@ -1,0 +1,26 @@
+{
+	"recommendations": [
+		"JunHan.auto-close-tag",
+		"HosainHossaini.bootstrap-intellisense",
+		"JunHan.code-runner",
+		"adpyke.codesnap",
+		"DEVSENSE.composer",
+		"PranayPrakash.css-peek",
+		"Alexander.error-lens",
+		"Microsoft.eslint",
+		"GitHub.copilot",
+		"GitHub.copilot-chat",
+		"GitHub.pull-requests",
+		"PawelBorkar.jellyfish-theme",
+		"Microsoft.live-preview",
+		"RitwickDey.live-server",
+		"Microsoft.live-share",
+		"PhilippKief.material-icon-theme",
+		"Theo.material-theme-but-i-wont-sue-you",
+		"PulkitGangwar.nextjs-snippets",
+		"Prettier.prettier-vscode",
+		"yoavbls.pretty-ts-errors",
+		"Prisma.prisma",
+		"TailwindLabs.vscode-tailwindcss"
+	]
+}
