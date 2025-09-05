@@ -1,25 +1,25 @@
 {
   "recommendations": [
-    "formulahendry.auto-close-tag",       // Auto Close Tag
-    "thekalinga.bootstrap4-vscode",       // Bootstrap 4 IntelliSense (alt)
-    "formulahendry.code-runner",          // Code Runner
-    "adpyke.codesnap",                    // CodeSnap
-    "pranayprakash.css-peek",             // CSS Peek
-    "usernamehw.errorlens",               // Error Lens
-    "dbaeumer.vscode-eslint",             // ESLint
-    "GitHub.copilot",                     // GitHub Copilot
-    "GitHub.copilot-chat",                // GitHub Copilot Chat
-    "GitHub.vscode-pull-request-github",  // GitHub Pull Requests
-    "PawelBorkar.jellyfish",              // JellyFish Theme
-    "PKief.material-icon-theme",          // Material Icon Theme
-    "ritwickdey.liveserver",              // Live Server
-    "ms-vsliveshare.vsliveshare",         // Live Share
-    "PulkitGangwar.nextjs-snippets",      // Next.js Snippets
-    "esbenp.prettier-vscode",             // Prettier
-    "yoavbls.pretty-ts-errors",           // Pretty TypeScript Errors
-    "Prisma.prisma",                      // Prisma
-    "bradlc.vscode-tailwindcss",          // Tailwind CSS IntelliSense
-    "ms-vscode.live-server",              // Live Preview
-    "icrawl.discord-vscode"               // Discord Presence
+    "formulahendry.auto-close-tag",       
+    "thekalinga.bootstrap4-vscode",    
+    "formulahendry.code-runner",         
+    "adpyke.codesnap",                    
+    "pranayprakash.css-peek",            
+    "usernamehw.errorlens",              
+    "dbaeumer.vscode-eslint",           
+    "GitHub.copilot",                   
+    "GitHub.copilot-chat",               
+    "GitHub.vscode-pull-request-github",  
+    "PawelBorkar.jellyfish",              
+    "PKief.material-icon-theme",         
+    "ritwickdey.liveserver",             
+    "ms-vsliveshare.vsliveshare",        
+    "PulkitGangwar.nextjs-snippets",     
+    "esbenp.prettier-vscode",            
+    "yoavbls.pretty-ts-errors",           
+    "Prisma.prisma",                      
+    "bradlc.vscode-tailwindcss",         
+    "ms-vscode.live-server",              
+    "icrawl.discord-vscode"               
   ]
 }
