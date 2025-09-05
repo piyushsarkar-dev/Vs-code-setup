@@ -1,26 +1,25 @@
 {
-	"recommendations": [
-		"JunHan.auto-close-tag",
-		"HosainHossaini.bootstrap-intellisense",
-		"JunHan.code-runner",
-		"adpyke.codesnap",
-		"DEVSENSE.composer",
-		"PranayPrakash.css-peek",
-		"Alexander.error-lens",
-		"Microsoft.eslint",
-		"GitHub.copilot",
-		"GitHub.copilot-chat",
-		"GitHub.pull-requests",
-		"PawelBorkar.jellyfish-theme",
-		"Microsoft.live-preview",
-		"RitwickDey.live-server",
-		"Microsoft.live-share",
-		"PhilippKief.material-icon-theme",
-		"Theo.material-theme-but-i-wont-sue-you",
-		"PulkitGangwar.nextjs-snippets",
-		"Prettier.prettier-vscode",
-		"yoavbls.pretty-ts-errors",
-		"Prisma.prisma",
-		"TailwindLabs.vscode-tailwindcss"
-	]
+  "recommendations": [
+    "formulahendry.auto-close-tag",       // Auto Close Tag
+    "thekalinga.bootstrap4-vscode",       // Bootstrap 4 IntelliSense (alt)
+    "formulahendry.code-runner",          // Code Runner
+    "adpyke.codesnap",                    // CodeSnap
+    "pranayprakash.css-peek",             // CSS Peek
+    "usernamehw.errorlens",               // Error Lens
+    "dbaeumer.vscode-eslint",             // ESLint
+    "GitHub.copilot",                     // GitHub Copilot
+    "GitHub.copilot-chat",                // GitHub Copilot Chat
+    "GitHub.vscode-pull-request-github",  // GitHub Pull Requests
+    "PawelBorkar.jellyfish",              // JellyFish Theme
+    "PKief.material-icon-theme",          // Material Icon Theme
+    "ritwickdey.liveserver",              // Live Server
+    "ms-vsliveshare.vsliveshare",         // Live Share
+    "PulkitGangwar.nextjs-snippets",      // Next.js Snippets
+    "esbenp.prettier-vscode",             // Prettier
+    "yoavbls.pretty-ts-errors",           // Pretty TypeScript Errors
+    "Prisma.prisma",                      // Prisma
+    "bradlc.vscode-tailwindcss",          // Tailwind CSS IntelliSense
+    "ms-vscode.live-server",              // Live Preview
+    "icrawl.discord-vscode"               // Discord Presence
+  ]
 }
